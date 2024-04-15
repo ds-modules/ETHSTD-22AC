@@ -12,9 +12,8 @@ These notebooks explore the incarceration trends and impacts of prison realignme
 
 To open and run any of the notebooks, click on the appropriate link below.
 
-| Module | Summary |Berkeley Datahub Link          |
-
-|----------|-----------------------------------------------------------------------|------------------------|------------------------|
+| Module | Summary |Berkeley Datahub Link|
+|---|---|---|
 | Notebook 1    | State Prisons and County Jails (Part 1)               | [![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FETHSTD-22AC&urlpath=tree%2FETHSTD-22AC-SP23%2FLecture_1.ipynb&branch=main) |
 | Notebook 2  | State Prisons and County Jails (Part 2)            | | [![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FETHSTD-22AC&urlpath=tree%2FETHSTD-22AC-SP23%2FLecture_2.ipynb&branch=main)
 | Notebook 3    | Covid-19 in Prisons                                  | [![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FETHSTD-22AC&urlpath=tree%2FETHSTD-22AC-SP23%2FLecture_3.ipynb&branch=main)
